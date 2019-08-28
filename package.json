@@ -1,0 +1,19 @@
+{
+  "name": "template-dslink-javascript",
+  "version": "2.0.0",
+  "description": "A template to kickstart creating a DSLink using the JavaScript SDK.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IOT-DSA/dslink-javascript-template.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IOT-DSA/dslink-javascript-template/issues"
+  },
+  "homepage": "https://github.com/IOT-DSA/dslink-javascript-template",
+  "dependencies": {
+    "dslink": "^2.0.2"
+  }
+}
