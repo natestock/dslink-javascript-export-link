@@ -1,5 +1,4 @@
 # dslink-javascript-export-link
 
-download nodejs before installing this dslink
-
+you will need nodejs (version 10 or higher) to run this dslink
 https://nodejs.org/en/download/package-manager/
